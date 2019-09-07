@@ -1,6 +1,7 @@
 [
     {
         "id" : 1,
+        "status" : "Active",
         "criteria" : [
            {
                "element" : "style",
@@ -11,6 +12,7 @@
     },
     {
         "id" : 2,
+        "status" : "Disabled",
         "criteria" : [
             {
                 "element" : "style",
