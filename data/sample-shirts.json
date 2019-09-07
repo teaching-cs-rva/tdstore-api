@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "fabric" : "cotton",
+        "size" : "medium",
+        "style" : "spiral",
+        "price" : 15
+    },
+    {
+        "id" : 2,
+        "fabric" : "cotton",
+        "size" : "XXL",
+        "style" : "spiral",
+        "price" : 15
+    },
+    {
+        "id" : 3,
+        "fabric" : "cotton",
+        "size" : "small",
+        "style" : "spiral",
+        "price" : 15
+    },
+    {
+        "id" : 4,
+        "fabric" : "cotton",
+        "size" : "large",
+        "style" : "spiral",
+        "price" : 15
+    }
+]

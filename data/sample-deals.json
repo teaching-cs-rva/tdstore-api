@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 1,
+        "criteria" : [
+           {
+               "element" : "style",
+               "restriction" : "spiral"
+           }
+        ],
+        "deal" : "half-price"
+    },
+    {
+        "id" : 2,
+        "criteria" : [
+            {
+                "element" : "style",
+                "restriction" : "spotted"
+            }
+        ],
+        "deal" : "third-price"
+    }
+]
